@@ -1,4 +1,23 @@
 #EXTM3U
+https://t.me/PlaylistFinderLATINO/55646
+http://galileatv.top:8080/restreampropio/SasMQrs3mkud/278209
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="ES: DAZN 3 HD KO (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/3gSpTNw/dz3.png" group-title="DAZN",ES: DAZN 3 HD KO (SOLO EVENTOS)
+http://galileatv.top:8080/restreampropio/SasMQrs3mkud/278213
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="ES: DAZN 3 FHD KO (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/3gSpTNw/dz3.png" group-title="DAZN",ES: DAZN 3 FHD KO (SOLO EVENTOS)
+http://galileatv.top:8080/restreampropio/SasMQrs3mkud/136660
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="ES: DAZN 4 HD KO (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/vvh5189S/dz4.png" group-title="DAZN",ES: DAZN 4 HD KO (SOLO EVENTOS)
+http://galileatv.top:8080/restreampropio/SasMQrs3mkud/136661
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="ES: DAZN 4 FHD KO (SOLO EVENTOS)" tvg-logo="https://i.ibb.co/vvh5189S/dz4.png" group-title="DAZN",ES: DAZN 4 FHD KO (SOLO EVENTOS)
+http://galileatv.top:8080/restreampropio/SasMQrs3mkud/278215
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: DAZN LA LIGA FHD" tvg-logo="https://i.ibb.co/9kz3SXbt/dzl.png" group-title="DAZN",ES: DAZN LA LIGA FHD
+http://galileatv.top:8080/restreampropio/SasMQrs3mkud/342777
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="ES: DAZN LA LIGA HD" tvg-logo="https://i.ibb.co/9kz3SXbt/dzl.png" group-title="DAZN",ES: DAZN LA LIGA HD
+http://galileatv.top:8080/restreampropio/SasMQrs3mkud/279005
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES: DAZN LA LIGA 2 HD" tvg-logo="https://i.ibb.co/mCmBpbGr/dzl2.png" group-title="DAZN",ES: DAZN LA LIGA 2 HD
+http://galileatv.top:8080/restreampropio/SasMQrs3mkud/279008
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="ES: DAZN LA LIGA 2 FHD" tvg-logo="https://i.ibb.co/mCmBpbGr/dzl2.png" group-title="DAZN",ES: DAZN LA LIGA 2 FHD
+http://galileatv.top:8080/restreampropio/SasMQrs3mkud/279009
+
 #EXTINF:-1,TLC
 http://190.151.80.242:9990/play/a0k3/index.m3u8
 #EXTINF:-1,Discovery Turbo
